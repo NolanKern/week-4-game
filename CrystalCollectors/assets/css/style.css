@@ -1,0 +1,26 @@
+.jumbotron {
+	text-align: center;
+	background-color: powderblue;
+	font-weight: bold;
+	font-family: fantasy;
+}
+
+body {
+	background-color: mistyrose;
+}
+
+p {
+	font-weight: bold;
+	color: green;
+}
+
+h4 {
+	font-weight: bold;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.data{
+	color: red;
+	font-weight: bold;
+	font-size: 20px;
+}
